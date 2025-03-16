@@ -22,5 +22,5 @@ with sync_playwright() as p:
     #page.context.add_cookies()
 
     #Taking a screenshot and naming the screenshot.png 
-    page.screenshot(path='2025.png',full_page=True)
+    page.screenshot(path='March.png',full_page=True)
     
